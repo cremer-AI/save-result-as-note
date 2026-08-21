@@ -1,0 +1,16 @@
+# WorkBuddy 会话/记忆数据（不入库）
+.workbuddy/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 虚拟环境
+.venv*/
+venv/
+
+# 临时文件
+*.log
+.DS_Store
+Thumbs.db
